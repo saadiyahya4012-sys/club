@@ -1,0 +1,6 @@
+{
+  "name": "Club Informatique - University Tech Community",
+  "description": "Site officiel du Club Informatique universitaire : Connect. Code. Create. Découvrez nos ateliers, hackathons, projets en IA, cybersécurité, web et robotique, et inscrivez-vous.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

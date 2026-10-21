@@ -1,0 +1,64 @@
+[
+  {
+    "id": "CI-2026-0003",
+    "fullName": "meryem chakhmi",
+    "email": "mryam@gmail.com",
+    "phone": "0631176449",
+    "fieldOfStudy": "DD202",
+    "studyLevel": "Licence 3",
+    "interests": [
+      "IA"
+    ],
+    "motivation": "bonjour",
+    "consent": true,
+    "createdAt": "22/10/2026 00:25:03",
+    "syncedToSheet": true
+  },
+  {
+    "id": "CI-2026-0002",
+    "fullName": "mehdi",
+    "email": "traderyyo934@gmail.com",
+    "phone": "0681776570",
+    "fieldOfStudy": "DD202",
+    "studyLevel": "Licence 2 / CP2",
+    "interests": [
+      "IA"
+    ],
+    "motivation": "salam",
+    "consent": true,
+    "createdAt": "22/10/2026 00:23:33",
+    "syncedToSheet": true
+  },
+  {
+    "id": "CI-2026-0002",
+    "fullName": "Nadia Mansour",
+    "email": "nadia.mansour@etu.univ.edu",
+    "phone": "+33 7 89 01 23 45",
+    "fieldOfStudy": "Cybersécurité & Réseaux",
+    "studyLevel": "",
+    "interests": [
+      "Cybersécurité",
+      "Réseaux"
+    ],
+    "motivation": "Hâte de participer aux challenges CTF.",
+    "consent": true,
+    "createdAt": "2026-10-21T22:36:14.659Z",
+    "syncedToSheet": false
+  },
+  {
+    "id": "CI-2026-0001",
+    "fullName": "Yassine Benali",
+    "email": "yassine.benali@etu.univ.edu",
+    "phone": "+33 6 45 78 91 23",
+    "fieldOfStudy": "Génie Logiciel & Informatique",
+    "studyLevel": "Master 1 / Ingénieur 1",
+    "interests": [
+      "Web Development",
+      "IA"
+    ],
+    "motivation": "Passionné par le développement d'applications et la sécurité.",
+    "consent": true,
+    "createdAt": "2026-10-21T22:26:49.009Z",
+    "syncedToSheet": false
+  }
+]
